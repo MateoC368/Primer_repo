@@ -1,0 +1,18 @@
+# Carpetas y archivos de VS
+.vs/
+*.suo
+*.user
+*.tmp
+*.bak
+*.vsidx
+*.vssscc
+
+# Archivos de build y temporales
+bin/
+obj/
+*.exe
+*.dll
+
+# Archivos de configuración local
+*.json
+*.db
